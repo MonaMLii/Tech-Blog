@@ -1,0 +1,14 @@
+[
+{
+    "name": "Why MVC is so impotant",
+    "description": "MVC allows developer to maintain a true seperation of concerns"
+},
+{
+    "name": "Authentication vs. Authorization",
+    "description": "Authentication means confirming your own identity, authorization means being allowed access to the system"
+},
+{
+    "name": "Object-Relational Mapping",
+    "description": "ORMs is really simplified the way i create queries in SQL!"
+}
+]
