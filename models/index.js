@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 const User = require('./User');
 const Blog = require('./Blog');
 
